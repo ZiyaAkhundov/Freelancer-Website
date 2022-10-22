@@ -331,7 +331,7 @@ textarea:focus{
 }
 @media screen and (min-width:1201px) and (max-width:1348px){
     .portfolio{
-        padding-bottom: 300px;
+        height: auto;
     }
     .zz1{
         margin-left: 70px;
@@ -340,7 +340,7 @@ textarea:focus{
 
 @media screen and (min-width:1025px) and (max-width:1200px){
     .portfolio{
-        padding-bottom: 300px;
+       height: auto;
     }
     .zz1{
         margin-left: 40px;
@@ -348,7 +348,7 @@ textarea:focus{
 }
 @media screen and (min-width:769px) and (max-width:1024px){
     .portfolio{
-        padding-bottom: 300px;
+        height: auto;
     }
     .zz1{
         margin-left: 20px;
