@@ -25,7 +25,7 @@ a{
 
 }
 .menu{
-    visibility: hidden;
+    display: none;
 }
 ul{
     list-style-type: none;
@@ -391,7 +391,7 @@ textarea:focus{
         font-size: 15px;
     } */
     .list{
-        visibility: hidden;
+        display:none;
     }
     .menu{
         margin-left: 95px;
