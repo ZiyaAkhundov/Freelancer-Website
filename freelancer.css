@@ -395,9 +395,9 @@ textarea:focus{
     }
     .menu{
         margin-left: 95px;
+        display:inline-block ;
     }
     .menu a{
-        visibility: visible;
         display: flex;
         padding: 10px 25px;
         background-color: rgb(8, 185, 8);
